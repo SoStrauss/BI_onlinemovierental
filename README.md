@@ -1,4 +1,4 @@
-# BI_onlinemovierental
+# Rockbuster Stealth Data Analysis Project
 SQL project on a fictive data set. Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. The management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. PostgreSQL analyses to answer any business questions of other departments with data-related queries.
 
 The Rockbuster Stealth Management Board has asked a series of business questions. I provide queries for data-driven answers that they can use for their 2020 company strategy. 
