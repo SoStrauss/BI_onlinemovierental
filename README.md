@@ -13,9 +13,9 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Fictive data set that contains information about Rockbuster’s film inventory, customers, and payments, among other things.
 - Around 3MB and contains several files
 - Tables are interconnected via key variables
-- Source: [data_Rockbuster] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) [downloaded Aug '23] 
+- Source: [data_Rockbuster](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) [downloaded Aug '23] 
 
 ## Project Deliverable
 [Rockbuster Customer Count and Revenue by Country](https://public.tableau.com/views/RockbusterCustomerCountandRevenuebyCountry/Sheet1?:language=de-DE&:display_count=n&:origin=viz_share_link)
-[Revenue_Rockbuster] (https://public.tableau.com/views/Revenue_Rockbuster/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link)
-[Where Rockbuster's clients live] (https://public.tableau.com/views/WhereRockbustersclientslive/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link)
+[Revenue_Rockbuster](https://public.tableau.com/views/Revenue_Rockbuster/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link)
+[Where Rockbuster's clients live](https://public.tableau.com/views/WhereRockbustersclientslive/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link)
