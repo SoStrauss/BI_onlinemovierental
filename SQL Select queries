@@ -1,0 +1,27 @@
+**Select languages**
+
+SELECT DISTINCT (name) AS languages FROM language 
+
+
+**Select top ten films
+
+SELECT D.film_id, D.title, SUM(A.amount)
+FROM payment A
+INNER JOIN rental B ON A.rental_id = B.rental_id
+INNER JOIN inventory C ON B.inventory_id = C.inventory_id
+INNER JOIN film D ON C.film_id = D.film_id
+GROUP BY D.film_id
+ORDER BY SUM (A.amount) DESC
+LIMIT 10;
+
+
+**Select bottom ten films**
+
+SELECT D.film_id, D.title, SUM(A.amount)
+FROM payment A
+INNER JOIN rental B ON A.rental_id = B.rental_id
+INNER JOIN inventory C ON B.inventory_id = C.inventory_id
+INNER JOIN film D ON C.film_id = D.film_id
+GROUP BY D.film_id
+ORDER BY SUM (A.amount) 
+LIMIT 10;
