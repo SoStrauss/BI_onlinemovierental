@@ -1,4 +1,4 @@
-**Query for: Find the average amount paid by the top 5 customers**
+** Query for: Find the average amount paid by the top 5 customers **
 
 --Step 1 with CTE
 --1. CTE: top_ten_countries
